@@ -1,0 +1,89 @@
+2023-01-31 22:38:01,909:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+                  dataset: CASME                         
+            dataset_order: ['CASME']                     
+             dataset_path: /media/data1/wf/AU_EMOwPGM/codes/dataset/CASME/CASME_subject_independent_fix.pkl
+dataset_path_subject_dependent: /media/data1/wf/AU_EMOwPGM/codes/dataset/CASME/CASME_subject_independent_fix.pkl
+dataset_path_subject_independent: /media/data1/wf/AU_EMOwPGM/codes/dataset/CASME/CASME_subject_independent.pkl
+                   device: cpu                           
+                 evaluate: False                         
+                file_list: epoch1_model_fold0.pth        
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+                     loc1: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+                     loc2: [15, 16]                      
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-05                         
+               manualSeed: 0                             
+             neighbor_num: 4                             
+              num_classes: 17                            
+              num_workers: 16                            
+                   outdir: save/rule/sub_de\2023-01-31   
+              source_list: ['labelsAU_record', 'labelsEMO_record']
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-31 22:38:01,913:INFO: writting logs to file save/rule/sub_de\2023-01-31\train.log
+2023-01-31 22:38:40,614:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+                  dataset: CASME                         
+            dataset_order: ['CASME']                     
+             dataset_path: E:/DeskTop/AuExRE/codes/0114/AU_EMOwPGM/dataset/CASME/CASME_subject_dependent_fix.pkl
+dataset_path_subject_dependent: E:/DeskTop/AuExRE/codes/0114/AU_EMOwPGM/dataset/CASME/CASME_subject_dependent_fix.pkl
+dataset_path_subject_independent: /media/data1/wf/AU_EMOwPGM/codes/dataset/CASME/CASME_subject_independent.pkl
+                   device: cpu                           
+                 evaluate: False                         
+                file_list: epoch1_model_fold0.pth        
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+                     loc1: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+                     loc2: [15, 16]                      
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-05                         
+               manualSeed: 0                             
+             neighbor_num: 4                             
+              num_classes: 17                            
+              num_workers: 16                            
+                   outdir: save/rule/sub_de\2023-01-31   
+              source_list: ['labelsAU_record', 'labelsEMO_record']
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-31 22:38:40,618:INFO: writting logs to file save/rule/sub_de\2023-01-31\train.log
+2023-01-31 22:38:57,347:INFO: {'init_lr 1e-05'}
+2023-01-31 22:41:09,189:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+                  dataset: CASME                         
+            dataset_order: ['CASME']                     
+             dataset_path: E:/DeskTop/AuExRE/codes/0114/AU_EMOwPGM/dataset/CASME/CASME_subject_dependent_fix.pkl
+dataset_path_subject_dependent: E:/DeskTop/AuExRE/codes/0114/AU_EMOwPGM/dataset/CASME/CASME_subject_dependent_fix.pkl
+dataset_path_subject_independent: /media/data1/wf/AU_EMOwPGM/codes/dataset/CASME/CASME_subject_independent.pkl
+                   device: cpu                           
+                 evaluate: False                         
+                file_list: epoch1_model_fold0.pth        
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+                     loc1: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+                     loc2: [15, 16]                      
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-05                         
+               manualSeed: 0                             
+             neighbor_num: 4                             
+              num_classes: 17                            
+              num_workers: 16                            
+                   outdir: save/rule/sub_de\2023-01-31   
+              source_list: ['labelsAU_record', 'labelsEMO_record']
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-31 22:41:09,192:INFO: writting logs to file save/rule/sub_de\2023-01-31\train.log
+2023-01-31 22:41:09,201:INFO: {'init_lr 1e-05'}

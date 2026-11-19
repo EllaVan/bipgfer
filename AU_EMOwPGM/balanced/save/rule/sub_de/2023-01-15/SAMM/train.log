@@ -1,0 +1,23 @@
+2023-01-15 20:31:06,675:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:31:40,018:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['SAMM']                      
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-05                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:31:40,018:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:32:10,275:INFO: {'Dataset: SAMM val_rules_acc: 90.80'}
+2023-01-15 20:32:10,275:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:32:10,275:INFO: {'Happiness: 100.00, Sadness: 33.33, Anger: 100.00, Surprise: 100.00, Disgust: 62.50'}

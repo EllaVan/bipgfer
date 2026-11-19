@@ -1,0 +1,7 @@
+nohup: ignoring input
+2022-06-30 22:10:48.413749+08:00
+using gpu: cuda:1
+BP4D based Update
+Train set size: 96375
+Test set size: 10711
+The interAUs model is established, edges are  [('AU2', 'AU1'), ('AU2', 'AU10'), ('AU5', 'AU1'), ('AU6', 'AU12'), ('AU6', 'AU10'), ('AU6', 'AU7'), ('AU7', 'AU10'), ('AU7', 'AU12'), ('AU9', 'AU10'), ('AU9', 'AU7'), ('AU9', 'AU17'), ('AU11', 'AU15'), ('AU11', 'AU7'), ('AU11', 'AU12'), ('AU11', 'AU10'), ('AU12', 'AU10'), ('AU15', 'AU10'), ('AU15', 'AU17'), ('AU15', 'AU7'), ('AU20', 'AU4'), ('AU20', 'AU1'), ('AU23', 'AU7'), ('AU23', 'AU17'), ('AU23', 'AU12'), ('AU24', 'AU17')]

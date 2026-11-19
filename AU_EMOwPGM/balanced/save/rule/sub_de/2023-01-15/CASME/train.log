@@ -1,0 +1,154 @@
+2023-01-15 20:34:03,208:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 0.001                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:34:03,208:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:34:29,640:INFO: {'Dataset: CASME val_rules_acc: 69.75'}
+2023-01-15 20:34:29,641:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:34:29,641:INFO: {'happy: 100.00, sad: 100.00, surprise: 81.48, fear: 100.00, disgust: 36.51'}
+2023-01-15 20:38:43,433:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 0.001                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:38:43,434:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:39:09,974:INFO: {'Dataset: CASME val_rules_acc: 69.75'}
+2023-01-15 20:39:09,974:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:39:09,975:INFO: {'happy: 100.00, sad: 100.00, surprise: 81.48, fear: 100.00, disgust: 36.51'}
+2023-01-15 20:43:44,096:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 0.001                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:43:44,097:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:45:58,515:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 0.001                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:45:58,516:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:46:24,954:INFO: {'Dataset: CASME val_rules_acc: 52.75'}
+2023-01-15 20:46:24,954:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:46:24,955:INFO: {'happy: 100.00, sad: 100.00, surprise: 51.85, fear: 50.00, disgust: 14.29'}
+2023-01-15 20:47:02,603:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-05                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:47:02,603:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:47:29,025:INFO: {'Dataset: CASME val_rules_acc: 64.90'}
+2023-01-15 20:47:29,025:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:47:29,026:INFO: {'happy: 100.00, sad: 100.00, surprise: 96.30, fear: 100.00, disgust: 17.46'}
+2023-01-15 20:49:09,296:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-06                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:49:09,297:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:49:35,701:INFO: {'Dataset: CASME val_rules_acc: 64.75'}
+2023-01-15 20:49:35,701:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:49:35,701:INFO: {'happy: 100.00, sad: 100.00, surprise: 92.59, fear: 100.00, disgust: 20.63'}
+2023-01-15 20:50:53,020:INFO: ----------------- Options ---------------
+                 AUthresh: 0.6                           
+               batch_size: 128                           
+            dataset_order: ['CASME']                     
+                   device: cuda:1                        
+                 evaluate: False                         
+                     fold: 1                             
+                      gpu: 1                             
+           isClass_Weight: False                         
+     isClass_Weight_decay: False                         
+             isFocal_Loss: True                          
+             lr_decay_idx: 20000                         
+              lr_relation: 1e-05                         
+               manualSeed: 0                             
+              num_workers: 16                            
+                   outdir: save/rule/sub_de/2023-01-15   
+                  zeroPad: 1e-05                         
+----------------- End -------------------
+2023-01-15 20:50:53,020:INFO: writting logs to file save/rule/sub_de/2023-01-15/train.log
+2023-01-15 20:51:19,799:INFO: {'Dataset: CASME val_rules_acc: 68.80'}
+2023-01-15 20:51:19,799:INFO: {'EMO Rules Val Acc-list:'}
+2023-01-15 20:51:19,800:INFO: {'happy: 100.00, sad: 100.00, surprise: 66.67, fear: 100.00, disgust: 39.68'}
+
+2023-01-15 20:51:19,799:INFO: {'Dataset: CASME val_rules_acc: 68.80'}
+2023-01-15 20:51:19,800:INFO: {'happy: 100.00, sad: 100.00, surprise: 66.67, fear: 100.00, disgust: 39.68'}
